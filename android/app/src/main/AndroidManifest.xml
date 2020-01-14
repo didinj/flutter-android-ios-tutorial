@@ -10,7 +10,7 @@
         android:label="flutter_tutorial_app"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBgZZK8umUqJn8d5CoIZqWPJ_qtMfqD9q0"/>
+            android:value="YOUR_API_KEY"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
